@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarCheck</string>
+    <string-array name="typesOfCheck">
+        <item>История регистрации</item>
+        <item>Участие в ДТП</item>
+        <item>Нахождение в розыске</item>
+        <item>Наличие ограничений</item>
+    </string-array>
+</resources>
